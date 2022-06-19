@@ -25,10 +25,10 @@ const Home = () => {
         tempus, nec pellentesque metus semper. Suspendisse lobortis, magna a
         iaculis.
       </p>
-      <h4 className="absolute right-56 font-medium leading-tight text-2xl mt-0 mb-2 text-slate-600">
+      <h4 className="absolute right-44 font-medium leading-tight text-2xl mt-0 mb-2 text-slate-600">
         My stack
       </h4>
-      <div className="absolute right-14 container  grid grid-cols-3  columns-3 mx-auto w-96 ">
+      <div className="absolute right-14 container  grid grid-cols-3  columns-3 mx-auto h-auto w-80 border-solid border-1 border-slate-500 shadow-2xl ">
         <div className="w-full rounded">
           <img
             className="object-contain h-48 w-14"
